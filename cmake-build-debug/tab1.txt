@@ -1,0 +1,15 @@
+1:2:3:4:5:
+2:Cviceni:Bodu:haha:boo:
+3:Prvni programy:0:haha:boo:
+4:Cyklus, typy:0:nene:boo:
+5:Retezce:0:nene:boo:
+6:Struktury:2:nene:boo:
+7:Ukazatele:2:haha:boo:
+8:Funkce:0:haha2.5:boo:
+9:Malloc, dbg:2:haha:boo:
+10:0:haha:boo::
+11:0:haha:boo::
+12:Iterace, rekurze:2.5:haha:boo:
+13:0:haha:boo::
+:Dynamicke struktury:2.4:haha:boo:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa::::
