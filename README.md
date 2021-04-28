@@ -22,9 +22,9 @@ cmax - Finds the maximal value between N and M and assigns it to C
 
 Example input.txt:
 
-A1:B1:C1
-a2:b2:C2
-A3:B3:c3
+A1:B1:C1 \
+a2:b2:C2 \
+A3:B3:c3 \
 
 Commands: ./sheet -d ":" icol 1
 
