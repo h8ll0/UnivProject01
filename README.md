@@ -34,17 +34,17 @@ Example output:\
 :a2:b2:C2\
 :A3:B3:c3
 
-Commands: ./sheet -d ":" icol 1 cset 2 hello\
+Commands: ./sheet -d ":" icol 1 cset 2 hello
 
-Example output:\
+Example output:
 
 :hello:B1:C1\
 :hello:b2:C2\
 :hello:B3:c3\
 
-Commands: ./sheet -d ":" icol 1 cset 2 "hello" dcol 3\
+Commands: ./sheet -d ":" icol 1 cset 2 "hello" dcol 3
 
-Example output:\
+Example output:
 
 :hello:B1\
 :hello:b2\
