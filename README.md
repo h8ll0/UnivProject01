@@ -1,11 +1,11 @@
 # University-Project-1
-My first univetsity project. Work with .txt, strings.
-Commands: 
-arow - Adds a new table row to the end of the table
-icol - Inserts an empty column before the column given by the number C
-acol - Adds an empty column after the last column
-dcol - Deletes the column given by the number C
-cset - The string STR will be set to the cell in column C
+My first univetsity project. Work with .txt, strings.\
+Commands: \
+arow - Adds a new table row to the end of the table\
+icol - Inserts an empty column before the column given by the number C\
+acol - Adds an empty column after the last column\
+dcol - Deletes the column given by the number C\
+cset - The string STR will be set to the cell in column C\
 tolower - The string in column C will be converted to lowercase
 toupper - The string in column C will be converted to uppercase
 round - In column C, rounds the number to an integer
