@@ -28,7 +28,7 @@ A3:B3:c3 \
 \
 Commands: ./sheet -d ":" icol 1\
 \
-Example output:\
+Example output:
 
 :A1:B1:C1\
 :a2:b2:C2\
