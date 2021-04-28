@@ -1,5 +1,6 @@
 # University-Project-1
 My first univetsity project. Work with .txt, strings.\
+Processing lines from top to bottom one at a time\
 Commands:\
 arow - Adds a new table row to the end of the table\
 icol - Inserts an empty column before the column given by the number C\
